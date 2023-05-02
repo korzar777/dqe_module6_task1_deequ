@@ -7,6 +7,7 @@ Contains examples of following tests
 - data profiling
 - constraints suggestion
 - constraints verification
+
 Results are provided in pyspark-notebook in readable format.
 
 ## Project structure
